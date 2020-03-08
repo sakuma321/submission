@@ -67,6 +67,15 @@ echo x(array(1,3,5,7,9));
       
   }
   return $max_number;
+  
  }
- 
- echo max_array($arr);
+echo max_array(array(1,60,3,99,3,40));
+/* 5.次のビルトイン関数の用途、使い方を調べて実際に使ってみてください。
+
+strip_tags
+array_push
+array_merge
+time, mktime
+date
+*/
+
