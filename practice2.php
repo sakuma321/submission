@@ -16,7 +16,6 @@ for($i = 0; $i<=10000 ; $i++){
 }
 
 echo $total;
-echo"\n";
 
 $fruits=array("apple","orange","lemon","banana","strawverry");
 
@@ -35,3 +34,5 @@ for($i = $start; $i <=$end; $i++){
     echo $i;
   }
 }
+
+
